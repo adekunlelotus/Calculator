@@ -15,8 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular-ui-router": "^1.0.5",
     "angular": "^1.6.5"
-  },
-  "private": true
+  }
 }
