@@ -1,0 +1,21 @@
+{
+  "name": "Calculator",
+  "authors": [
+    "adekunlelotus <Adekunle@lotusbetaanalytics.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^1.0.5",
+    "angular": "^1.6.5"
+  }
+}
